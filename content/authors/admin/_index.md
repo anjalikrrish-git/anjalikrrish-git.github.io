@@ -59,21 +59,18 @@ education:
     icon: ""
     date_start: 2025-08
     date_end: 2027-02
-    summary: |
 
   - Course: FMVA
     institution: Corporate Finance Institute
     icon: ""
     date_start: 2025-05
     date_end: 2026-05
-    summary: |
       
   - Course: B.Tech Information Technology
     institution: Cochin University of Science & Technology
     icon: ""
     date_start: 2012-08
     date_end:  2016-08
-    summary: |
       
 work:
   - position: Senior AI Research Scientist
